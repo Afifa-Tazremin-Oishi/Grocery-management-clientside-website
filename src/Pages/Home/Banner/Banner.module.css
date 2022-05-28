@@ -1,0 +1,9 @@
+.banner_img {
+	height: 75vh;
+	width: 100%;
+	object-fit: cover;
+}
+
+.bannar_text {
+	color: #256ad9;
+}
