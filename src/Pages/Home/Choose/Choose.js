@@ -6,7 +6,7 @@ const Choose = () => {
 		<div className='container my-5'>
 			<div className='row align-items-center'>
 				<h2 className='text-center text-uppercase mb-5' style={{color:'greenyellow'}}>
-					<strong>The best is yet to be!!!</strong>
+					<strong>We are the best!!!</strong>
 				</h2>
 				<div className='col-md-6 col-sm-12'>
 					<ChooseAccordion />

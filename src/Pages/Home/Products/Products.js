@@ -22,7 +22,7 @@ const Products = () => {
 	return (
 		<div className='container my-5'>
 			<div className='row '>
-				<h1 className='text-center text-secondary mb-5'>Our Products</h1>
+				<h1 className='text-center mb-5' style={{color:'magenta'}}>Our Products</h1>
 
 				{loading ? (
 					<Loader />
