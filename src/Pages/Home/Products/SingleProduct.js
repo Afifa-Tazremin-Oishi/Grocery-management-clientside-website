@@ -10,7 +10,7 @@ const SingleProduct = ({ product }) => {
 				<img src={imgUrl} className='card-img-top' alt='' />
 				<div className='card-body'>
 					<div className='d-flex justify-content-between mb-3'>
-						<h5 className='card-title'>{name}</h5>
+						<h5 className='card-title'>Name:{name}</h5>
 						<h5 className='card-title'>{supplierName}</h5>
 					</div>
 					<div className='d-flex justify-content-between mb-3'>

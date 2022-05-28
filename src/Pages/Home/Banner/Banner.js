@@ -14,7 +14,7 @@ const Banner = () => {
 					alt='First slide'
 				/>
 				<Carousel.Caption>
-					
+				    <p className='display-6' style={{color:'magenta'}}>Fresh and Organic</p>
 					<h3 className='display-5 fw-bold' style={{color:'greenyellow'}}>Your Daily Need Products</h3>
 				</Carousel.Caption>
 			</Carousel.Item>
@@ -26,7 +26,7 @@ const Banner = () => {
 				/>
 
 				<Carousel.Caption>
-					
+					<p className='display-6' style={{color:'magenta'}}>Fresh and Organic</p>
 					<h3 className='display-5 fw-bold' style={{color:'greenyellow'}}>Your Daily Need Products</h3>
 				</Carousel.Caption>
 			</Carousel.Item>

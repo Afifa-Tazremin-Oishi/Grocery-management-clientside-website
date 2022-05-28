@@ -3,7 +3,7 @@ import React from "react";
 export const Contact = () => {
 	return (
 		<div>
-			<h4 className="fw-bold ">Contact Us</h4>
+			<h4 className="fw-bold " style={{color:'magenta'}}>Contact Us</h4>
 
 			<form>
 				<div className='form-floating mb-3'>
