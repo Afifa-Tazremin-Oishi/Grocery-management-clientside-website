@@ -6,7 +6,7 @@ const Blog = () => {
 		<div className='px-5 mt-5'>
 
 
-			<h1 className='p-5 justify-content-center text-center'> Question Part</h1>
+			<h1 className='p-5 justify-content-center text-center' style={{color:'orange'}}> Question Part</h1>
 
 			<Accordion defaultActiveKey={['0']} alwaysOpen>
 				<Accordion.Item eventKey="0">
