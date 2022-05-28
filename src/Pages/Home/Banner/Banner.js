@@ -15,7 +15,7 @@ const Banner = () => {
 				/>
 				<Carousel.Caption>
 					
-					<h3 className='display-5 fw-bold'>Where R World Meets Yours</h3>
+					<h3 className='display-5 fw-bold' style={{color:'greenyellow'}}>Your Daily Need Products</h3>
 				</Carousel.Caption>
 			</Carousel.Item>
 			<Carousel.Item>
@@ -27,7 +27,7 @@ const Banner = () => {
 
 				<Carousel.Caption>
 					
-					<h3 className='display-5 fw-bold'>Get There,Start Here</h3>
+					<h3 className='display-5 fw-bold' style={{color:'greenyellow'}}>Your Daily Need Products</h3>
 				</Carousel.Caption>
 			</Carousel.Item>
 			<Carousel.Item>
@@ -39,7 +39,7 @@ const Banner = () => {
 
 				<Carousel.Caption>
 					
-					<h3 className='display-5 fw-bold'>Get Out And Ride</h3>
+					<h3 className='display-5 fw-bold'>Order Now</h3>
 				</Carousel.Caption>
 			</Carousel.Item>
 		</Carousel>
