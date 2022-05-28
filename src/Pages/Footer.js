@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
 	return (
-		<footer className='bg-dark text-white py-5 mt-4'>
+		<footer className='bg-primary text-white py-5 mt-4'>
 			<div className='container'>
 				<div className='d-flex flex-column flex-md-row justify-content-evenly align-items-center'>
 					<Link to='/' className='text-decoration-none text-white'>
-						<h2>Bangla-Motor LTD</h2>
+						<h2 style={{color:'greenyellow'}}> <strong>Grab Grocers</strong></h2>
 					</Link>
 					<p className='mb-1 my-3 my-md-0'>
 						&copy;Afifa Oishi {new Date().getFullYear()} | All Right Reserved{" "}
