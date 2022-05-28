@@ -33,22 +33,7 @@ export const Contact = () => {
 					</label>
 				</div>
 
-				<div className='row mb-3'>
 				
-					<div className='form-floating col'>
-						<input
-							type='email'
-							className='form-control'
-							name='email'
-							id='email'
-							placeholder='Enter Your E-Mail'
-							required
-						/>
-						<label htmlFor='quantity' className='ms-2'>
-							Email Address
-						</label>
-					</div>
-				</div>
 
 				<button type='submit' className='btn btn-secondary'>
 					Send Us
