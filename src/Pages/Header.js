@@ -64,7 +64,7 @@ const Header = () => {
 									className='text-white'
 									style={navLinkStyles}
 								>
-									{user.displayName ? user.displayName + " " : "My "} Products
+									<span style={{color:'magenta'}}>{user.displayName ? user.displayName + " " : "My "}</span> Products
 								</Nav.Link>
 								<Nav.Link
 									as={NavLink}
