@@ -34,19 +34,7 @@ export const Contact = () => {
 				</div>
 
 				<div className='row mb-3'>
-					<div className='form-floating col'>
-						<input
-							type='phone'
-							className='form-control'
-							name='phone '
-							id='phone'
-							placeholder='Enter Your Phone Number'
-							required
-						/>
-						<label htmlFor='phone' className='ms-2'>
-							Phone Number
-						</label>
-					</div>
+				
 					<div className='form-floating col'>
 						<input
 							type='email'
