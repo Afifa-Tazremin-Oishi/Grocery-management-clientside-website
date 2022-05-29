@@ -5,7 +5,7 @@ The project live link is [Wearhouse Website]().
 
 ## Short Description
 
-This application mainly focused to maintain wearhouse items organization. We can see how many item sold and how many left. We can add and delete item. We can also see who add how many items. 
+The major goal of this program was to keep the wearhouse things organized. We can check how many items have been sold and how many are still available. We have the ability to add and remove items. We can also check how many items each person adds.
 
 
 ## Project Features
