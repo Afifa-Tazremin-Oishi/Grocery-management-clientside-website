@@ -9,11 +9,11 @@ The major goal of this program was to keep the wearhouse things organized. We ca
 
 
 ## Project Features
-  - Here we use some modern technologies 
   - This website basically display items. 
-  - This website has Email based and Google authentication
-  - This website has protected route
+  - This website has Email based and Google authentication.
+  - This website has protected route.
   - This website is mobile responsive. 
+  - Here we use some modern technologies: 
     - React
     - React Router
     - Bootstrap 5
