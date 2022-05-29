@@ -6,8 +6,8 @@ const Services = () => {
 	return (
 		<div className='container my-5'>
 			<div className='row'>
-				<SingleService icon={<FaCar />} />
-				<SingleService1 icon={<FaCaravan />} />
+				<SingleService />
+				<SingleService1 />
 			</div>
 		</div>
 	);

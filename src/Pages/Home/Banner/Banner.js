@@ -39,7 +39,7 @@ const Banner = () => {
 
 				<Carousel.Caption>
 					
-					<h3 className='display-5 fw-bold'>Order Now</h3>
+					<h3 className='display-5 fw-bold' style={{color:'orange'}}>Order Now!!!</h3>
 				</Carousel.Caption>
 			</Carousel.Item>
 		</Carousel>
