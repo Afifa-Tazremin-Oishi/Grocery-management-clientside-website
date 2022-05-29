@@ -1,6 +1,6 @@
 # Project Name: WearHouse Management Application
 
-The project live link is [Wearhouse Website]().
+The project live link is [Grab Grocers](https://fruits-management-system-72a13.web.app/).
 
 
 ## Short Description
@@ -20,5 +20,5 @@ The major goal of this program was to keep the wearhouse things organized. We ca
     - Authenteication
     - React Toastify
     - JWT Authorization
-  - Please feel free to look around our site.
+  
   
